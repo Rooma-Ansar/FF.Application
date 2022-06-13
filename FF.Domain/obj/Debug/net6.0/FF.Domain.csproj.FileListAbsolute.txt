@@ -1,0 +1,12 @@
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\bin\Debug\net6.0\FF.Domain.deps.json
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\bin\Debug\net6.0\FF.Domain.dll
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\bin\Debug\net6.0\FF.Domain.pdb
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\FF.Domain.csproj.AssemblyReference.cache
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\FF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\FF.Domain.AssemblyInfoInputs.cache
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\FF.Domain.AssemblyInfo.cs
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\FF.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\FF.Domain.dll
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\refint\FF.Domain.dll
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\FF.Domain.pdb
+C:\Users\Rooma Nasir\Desktop\Assignments\FF.Application\FF.Domain\obj\Debug\net6.0\ref\FF.Domain.dll
